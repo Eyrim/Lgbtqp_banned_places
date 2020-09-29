@@ -1,1 +1,1 @@
-"# lgbtqp_banned_places" 
+# lgbtqp_banned_places
