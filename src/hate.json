@@ -320,7 +320,7 @@
         }
     },
 
-    "Kuwait (gender)" : 
+    "Kuwait (Gender)" : 
     {
         "type of law" : "criminalizes forms of gender expression",
         "name of law" : "Kuwait Penal Code, No. 16 of 1960, art. 198",
@@ -331,245 +331,265 @@
         }
     },
 
-    "" : 
+    "Lebanon" : 
     {
-        "type of law" : "",
-        "name of law" : "",
-        "category of offense" : "",
+        "type of law" : "outlaws same-sex relations",
+        "name of law" : "Criminal Code of 1943, article 534",
+        "category of offense" : "unnatural/indecent acts",
         "legal provisions" : 
         {
-            "" : ""
+            "Sexual relations contrary to the order of nature" : "Up to one year in prison"
         }
     },
 
-    "" : 
+    "Liberia" : 
     {
-        "type of law" : "",
-        "name of law" : "",
-        "category of offense" : "",
+        "type of law" : "outlaws same-sex relations",
+        "name of law" : "Penal Law - Title 26 - Liberian Code of Laws Revised, 1978, article 14.74.",
+        "category of offense" : "sodomy; unnatural/indecent acts",
         "legal provisions" : 
         {
-            "" : ""
+            "voluntary sodomy" : "one year in prison"
         }
     },
 
-    "" : 
+    "Libya" : 
     {
-        "type of law" : "",
-        "name of law" : "",
-        "category of offense" : "",
+        "type of law" : "outlaws same-sex relations",
+        "name of law" : "Libyan Penal Code of 1953, as amended by Law No. 70 (1973), articles 407-408",
+        "category of offense" : "unnatural/indecent acts",
         "legal provisions" : 
         {
-            "" : ""
+            "indecent acts" : "up to 5 years in prison"
         }
     },
 
-    "" : 
+    "Malawi" : 
     {
-        "type of law" : "",
-        "name of law" : "",
-        "category of offense" : "",
+        "type of law" : "outlaws same-sex relations",
+        "name of law" : "Penal Code of 1930 (amended 2010), sections 153, 137A",
+        "category of offense" : "unnatural/indecent acts",
         "legal provisions" : 
         {
-            "" : ""
+            "Carnal knowledge against the order of nature;" : "Not stated",
+            "indecent practices between males;" : "Sexual acts between men: up to 14 years in prison;",
+            "indecent practices between females" : "Sexual acts between women: up to 5 years in prison;"
+        },
+        "notes" : 
+        {
+            "In 2010, Malawi amended its penal code to include criminal penalties for sexual relations between consenting adult women. The version of the Malawi Penal Code available online does not include this amendment." : ""
         }
     },
 
-    "" : 
+    "Malawi (Gender)" : 
     {
-        "type of law" : "",
-        "name of law" : "",
+        "type of law" : "criminalizes forms of gender expression",
+        "name of law" : "Penal Code of 1930 (amended 2010), section 180",
         "category of offense" : "",
         "legal provisions" : 
         {
-            "" : ""
+            "Every male person who wears the hair of his head in such a fashion as, when he is standing upright, the main line of the bottom of the mass of hair (other than hair growing on his face or on the nape of his neck) lies below an imaginary line drawn horizontally around his head at the level of the mouth." : "Up to six months in prison, fines of up to K50"
         }
     },
 
-    "" : 
+    "Malaysia" : 
     {
-        "type of law" : "",
-        "name of law" : "",
-        "category of offense" : "",
+        "type of law" : "Outlaws same-sex relations",
+        "name of law" : "Malaysia Penal Code, 2006, section 377A, 377B, 377D. State Sharia (Islamic) laws also apply",
+        "category of offense" : "unnatural/indecent acts",
         "legal provisions" : 
         {
-            "" : ""
+            "Carnal intercourse against the order of nature, outrages on decency" : "Up to 20 years in prison, whipping, and fines (state Sharia laws)."
         }
     },
 
-    "" : 
+    "Malaysia (Gender)" : 
     {
-        "type of law" : "",
-        "name of law" : "",
+        "type of law" : "Criminalizes forms of gender expression",
+        "name of law" : "Syariah Enactments in Malaysia's 13 states and Federal Territory",
         "category of offense" : "",
         "legal provisions" : 
         {
-            "" : ""
+            "\"Male person posing as a woman,\" \"female person posing as a man\"" : "Up to three years in prison, fines, and mandatory counseling"
         }
     },
 
-    "" : 
+    "Maldives" : 
     {
-        "type of law" : "",
-        "name of law" : "",
-        "category of offense" : "",
+        "type of law" : "outlaws same-sex relations",
+        "name of law" : "Maldives Penal Code, Section 410, 411, 412",
+        "category of offense" : "Various offenses",
         "legal provisions" : 
         {
-            "" : ""
+            "unlawful marriage" : "six months to eight years in prison",
+            "Sexual intercourse with a person of the same sex; indecent acts with a person of the same sex" : "six months to eight years in prison and 100 lashes"
         }
     },
 
-    "" : 
+    "Mauritania" : 
     {
-        "type of law" : "",
-        "name of law" : "",
-        "category of offense" : "",
+        "type of law" : "outlaws same-sex relations",
+        "name of law" : "Penal Code of 1983, articles 306, 308",
+        "category of offense" : "Unnatural/indecent acts",
         "legal provisions" : 
         {
-            "" : ""
+            "Indecent acts between men" : "death by stoning",
+            "indecent acts between women" : "up to 2 years in prison and a fine of up to MRO 60,000 (US$210)"
         }
     },
 
-    "" : 
+    "Mauritius" : 
     {
-        "type of law" : "",
-        "name of law" : "",
-        "category of offense" : "",
+        "type of law" : "outlaws same-sex relations",
+        "name of law" : "Mauritius Criminal Code of 1838, section 250",
+        "category of offense" : "sodomy",
         "legal provisions" : 
         {
-            "" : ""
+            "sodomy" : "five years in prison"
         }
     },
 
-    "" : 
+    "Morocco" : 
     {
-        "type of law" : "",
-        "name of law" : "",
-        "category of offense" : "",
+        "type of law" : "outlaws same-sex relations",
+        "name of law" : "Penal Code of 1962, article 489",
+        "category of offense" : "unnatural/indecent acts",
         "legal provisions" : 
         {
-            "" : ""
+            "lewd or unnatural acts with an individual of the same sex" : "six months to 3 years in prison; fines of between 120 and 1,000 dirhams (US$10 to $110)"
         }
     },
 
-    "" : 
+    "Myanmar" : 
     {
-        "type of law" : "",
-        "name of law" : "",
-        "category of offense" : "",
+        "type of law" : "criminalizes same-sex conduct",
+        "name of law" : "Penal Code 1861, section 377",
+        "category of offense" : "\"Unnatural offences\"",
         "legal provisions" : 
         {
-            "" : ""
+            "\"carnal intercourse against the order of nature\"" : "up to 20 years in prison, fine"
+        },
+        "notes" :
+        {
+            "Myanmar is also known as Burma in English" : "",
+            "In 2016, a law amending the penal code was passed that replaced all \"transportation for life\" sentences with up to 20 years in prison. Civil society organizations have reported that LGBT people, especially trans women, are also arbitrarily arrested under Section 35 of the Rangoon Police Act of 1945, which punishes persons convicted of petty offenses, including \"any person found between sunset and sunrise having his face covered or otherwise disguised, who is unable to give a satisfactory account of himself,\" with up to three months in prison." : ""
         }
     },
 
-    "" : 
+    "Namibia" : 
     {
-        "type of law" : "",
-        "name of law" : "",
-        "category of offense" : "",
+        "type of law" : "outlaws same-sex relations",
+        "name of law" : "Common law offense",
+        "category of offense" : "sodomy; unnatural/indecent acts",
         "legal provisions" : 
         {
-            "" : ""
+            "Sodomy, \"unnatural sexual offences\" between men" : "Not stated"
         }
     },
 
-    "" : 
+    "Nigeria" : 
     {
-        "type of law" : "",
-        "name of law" : "",
-        "category of offense" : "",
+        "type of law" : "outlaws same-sex relations",
+        "name of law" : "Criminal Code Act (Chapter 77), 1990, sections 214, 215, 217; Same Sex Marriage (Prohibition) Act 2013.",
+        "category of offense" : "various offenses",
         "legal provisions" : 
         {
-            "" : ""
+            "carnal intercourse against the order of nature; entering into a same-sex marriage contract or civil union; making public show of same-sex amorous relationship; registering, operating, or participating in gay clubs, societies, and organization" : "Up to 14 years in prison; death penalty (state Sharia laws). Nigeria falls into the \"mixed sentences\" category because it has various types of laws, under both criminal and Sharia law, which criminalize consensual same-sex conduct. It also criminalizes discussion of LGBT rights.",
+            "the maximum penalty for sexual acts between men" : "death",
+            "the maximum sentence for sexual acts between women" : "whipping and/or imprisonment"
+        },
+        "notes" : 
+        {
+            "website link" : "https://wipolex.wipo.int/en/legislation/details/5591",
+            "In addition to existing provisions in Nigerian law that criminalize consensual same-sex relations between adults, the Same-Sex Marriage (Prohibition) Bill criminalizes public displays of affection between same-sex couples and restricts the work of organizations defending gay people and their rights. The new legislation could lead to imprisonment solely for a person's actual or imputed sexual orientation. People could face charges for consensual sexual relations in private; advocacy of LGBT rights; or public expression of their sexual orientation or gender identity. The terms \"same-sex marriage\" and \"civil union\" are so broadly defined in the law that they include virtually any form of same-sex cohabitation. Same-sex relations between men and between women are also punishable by state Sharia laws in various states in northern Nigeria. The maximum penalty for sexual acts between men is the death penalty and the maximum sentence for sexual acts between women is whipping and/or imprisonment."
         }
     },
 
-    "" : 
+    "Occupied Palestinian territory, Gaza Strip" : 
     {
-        "type of law" : "",
-        "name of law" : "",
-        "category of offense" : "",
+        "type of law" : "outlaws same-sex relations",
+        "name of law" : "British Mandate Criminal Code Ordinance No. 74 of 1936, section 152(2)",
+        "category of offense" : "unnatural/indecent acts",
         "legal provisions" : 
         {
-            "" : ""
+            "carnal knowledge against the order of nature" : "Up to 10 years in prison"
         }
     },
 
-    "" : 
+    "Oman" : 
     {
-        "type of law" : "",
-        "name of law" : "",
-        "category of offense" : "",
+        "type of law" : "outlaws same-sex relations",
+        "name of law" : "Omani Penal Code No. 7/1974, articles 33, 223",
+        "category of offense" : "homosexual acts",
         "legal provisions" : 
         {
-            "" : ""
+            "homosexual and lesbian intercourses" : "six months to three years in prison."
         }
     },
 
-    "" : 
+    "Onan (Gender)" : 
     {
-        "type of law" : "",
-        "name of law" : "",
+        "type of law" : "criminalizes forms of gender expression",
+        "name of law" : "Oman Penal Code, Article 266(d)",
         "category of offense" : "",
         "legal provisions" : 
         {
-            "" : ""
+            "imitating the opposite sex" : "one month to one year in prison and a fine of OMR 300 (USD $779.13)"
         }
     },
 
-    "" : 
+    "Pakistan" : 
     {
-        "type of law" : "",
-        "name of law" : "",
-        "category of offense" : "",
+        "type of law" : "outlaws same-sex relations",
+        "name of law" : "Pakistan Penal Code (XLV of 1860), section 377",
+        "category of offense" : "unnatural/indecent acts",
         "legal provisions" : 
         {
-            "" : ""
+            "carnal knowledge against the order of nature" : "life in prison; or 2 to 10 years in prison and a fine"
         }
     },
 
-    "" : 
+    "Papua New Guinea" : 
     {
-        "type of law" : "",
-        "name of law" : "",
-        "category of offense" : "",
+        "type of law" : "outlaws same-sex relations",
+        "name of law" : "Criminal Code Act 1974, section 210, 212",
+        "category of offense" : "unnatural/indecent acts",
         "legal provisions" : 
         {
-            "" : ""
+            "unnatural offences; indecent practices between males" : "up to seven years in prison"
         }
     },
 
-    "" : 
+    "Qatar" : 
     {
-        "type of law" : "",
-        "name of law" : "",
-        "category of offense" : "",
+        "type of law" : "outlaws same-sex relations",
+        "name of law" : "Penal Code, Law No. (II) of 2004, articles 296, 298. Sharia law also applies to Muslims",
+        "category of offense" : "sodomy",
         "legal provisions" : 
         {
-            "" : ""
+            "\"leading, instigating or seducing a male anyhow for sodomy or dissipation.\"" : "one to 3 years in prison; flogging; death penalty (Sharia law)."
         }
     },
 
-    "" : 
+    "Saint Kitts and Nevis" : 
     {
-        "type of law" : "",
-        "name of law" : "",
-        "category of offense" : "",
+        "type of law" : "outlaws same-sex relations",
+        "name of law" : "Offences Against the Person Act (2002), sections 56, 57",
+        "category of offense" : "buggery",
         "legal provisions" : 
         {
-            "" : ""
+            "buggery, indecent assault" : "four to 10 years in prison, with or without hard labor"
         }
     },
 
-    "" : 
+    "Saint Lucia" : 
     {
-        "type of law" : "",
-        "name of law" : "",
-        "category of offense" : "",
+        "type of law" : "outlaws same-sex relations",
+        "name of law" : "Criminal Code, No. 9 of 2004, sections 132, 133",
+        "category of offense" : "buggery",
         "legal provisions" : 
         {
-            "" : ""
+            "acts of Gross Indencecy; buggery" : "five to 10 years in prison."
         }
     },
 

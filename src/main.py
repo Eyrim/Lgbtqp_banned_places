@@ -1,5 +1,6 @@
 import tkinter as tk
 from tkinter import Frame, ttk, StringVar, Radiobutton, Entry
+from json import dumps
 
 class Main:
     def __init__(self):
@@ -9,8 +10,6 @@ class Main:
         print("-" * 100)
         print("\nAGAB: " + str(self.agab) + "\nSexuality: " + str(self.sexu) + "\nRomantic Orientation: " + str(self.romo) + "\nGender: " + str(self.gender) + "\nGender Expression: " + str(self.gender_expression))
         print("-" * 100)
-
-
 
     def change_agab_post(self):
         self.agab_combobox["values"] = [
