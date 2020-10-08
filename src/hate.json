@@ -593,102 +593,117 @@
         }
     },
 
-    "" : 
+    "Saint Vincent and The Grenadines" : 
     {
-        "type of law" : "",
-        "name of law" : "",
-        "category of offense" : "",
+        "type of law" : "outlaws same-sex relations",
+        "name of law" : "Criminal Code, 1990 Edition, sections 146, 148",
+        "category of offense" : "buggery",
         "legal provisions" : 
         {
-            "" : ""
+            "acts of Gross Indencecy; Buggery" : "five to ten years in prison"
         }
     },
 
-    "" : 
+    "Samoa" : 
     {
-        "type of law" : "",
-        "name of law" : "",
-        "category of offense" : "",
+        "type of law" : "outlaws same-sex relations",
+        "name of law" : "Crimes Act 2013, No. 10, section 67",
+        "category of offense" : "sodomy",
         "legal provisions" : 
         {
-            "" : ""
+            "sodomy" : "up to five years in prison"
         }
     },
 
-    "" : 
+    "Saudi Arabia" : 
     {
-        "type of law" : "",
-        "name of law" : "",
+        "type of law" : "outlaws same-sex relations",
+        "name of law" : "There is no codified penal Law in Saudi Arabia. Sentences are derived from interpretations of Sharia law",
+        "category of offense" : "homosexual acts as interpreted based on sharia",
+        "legal provisions" : 
+        {
+            "Not Stated" : "According to some interpretations of Sharia, the death sentence may be handed down for certain homosexual acts. Other penalties may include 100 blows of the whip and banishment for 1 year."
+        }
+    }, 
+
+    "Saudi Arabia (Gender)" : 
+    {
+        "type of law" : "Criminalizes forms of gender expression",
+        "name of law" : "There is no codified penal law in Saudi Arabia. Sentences are derived from interpretations of Sharia.",
         "category of offense" : "",
         "legal provisions" : 
         {
-            "" : ""
+            "Not Stated" : "Saudi Arabia has arrested and sentenced people to flogging and imprisonment for cross-dressing, despite having no written law prohibiting it."
         }
     },
 
-    "" : 
+    "Senegal" : 
     {
-        "type of law" : "",
-        "name of law" : "",
-        "category of offense" : "",
+        "type of law" : "Outlaws same-sex relations",
+        "name of law" : "Penal Code of 1965, article 319 (para. 3)",
+        "category of offense" : "unnatural/indecent acts",
         "legal provisions" : 
         {
-            "" : ""
+            "indecent acts; acts against nature with a person of the same sex" : "one to five years in prison; fine of 100,000 to 1,500,000 CFA (USD $170 to $2,600)."
         }
     },
 
-    "" : 
+    "Sierra Leone" : 
     {
-        "type of law" : "",
-        "name of law" : "",
-        "category of offense" : "",
+        "type of law" : "outlaws same-sex relations",
+        "name of law" : "Offences against the Person Act 1861, section 61",
+        "category of offense" : "buggery",
         "legal provisions" : 
         {
-            "" : ""
+            "buggery" : "ten years to life"
         }
     },
 
-    "" : 
+    "South Sudan" : 
     {
-        "type of law" : "",
-        "name of law" : "",
-        "category of offense" : "",
+        "type of law" : "Outlaws same-sex relations",
+        "name of law" : "Penal Code Act 2008, section 248",
+        "category of offense" : "unnatural/indecent acts",
         "legal provisions" : 
         {
-            "" : ""
+            "carnal intercourse against the order of nature" : "up to ten years in prison; fine"
         }
     },
 
-    "" : 
+    "South Sudan (Gender)" : 
     {
-        "type of law" : "",
-        "name of law" : "",
+        "type of law" : "criminalizes forms of gender expression",
+        "name of law" : "Penal Code of 2008, section 370, \"Vagabond\"",
         "category of offense" : "",
         "legal provisions" : 
         {
-            "" : ""
+            "Male person dressing as a woman in a public place" : "up to one year in prison"
         }
     },
 
-    "" : 
+    "Sudan" : 
     {
-        "type of law" : "",
-        "name of law" : "",
-        "category of offense" : "",
+        "type of law" : "outlaws same-sex relations",
+        "name of law" : "Penal Code 1991 (Act No. 8 1991), sections 148, 151",
+        "category of offense" : "sodomy, unnatural/indecent acts",
         "legal provisions" : 
         {
-            "" : ""
+            "sodomy, gross indecency" : "5 years in prison for first and second convictions; life in prison if convicted for the third time."
         }
     },
 
-    "" : 
+    "Sri Lanka" : 
     {
-        "type of law" : "",
-        "name of law" : "",
-        "category of offense" : "",
+        "type of law" : "outlaws samse-sex relations",
+        "name of law" : "Penal Code (as amended by the Penal Code (Amendment) Act, No. 22 of 1995), articles 365, 365A",
+        "category of offense" : "unnatural/indecent acts",
         "legal provisions" : 
         {
-            "" : ""
+            "unnatural offenses; acts of gross indecency between persons" : "up to ten years in prison; fine"
+        },
+        "notes" :
+        {
+            "In July 2020, Sudan’s Sovereign Council amended the penal code, removing some crimes from the books and reducing sentences for others, including sodomy. Previously, the death penalty was punishment for individuals accused by committing \"homosexual sex\" defined by the act of penetration, for the third time. For people found guilty of this offense for the first time, sentences were lashing 100 times or prison up to 5 years. For the second time, the sentence was both punishments combined." : ""
         }
     },
 
