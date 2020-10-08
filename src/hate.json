@@ -707,190 +707,165 @@
         }
     },
 
-    "" : 
+    "Syria" : 
     {
-        "type of law" : "",
-        "name of law" : "",
-        "category of offense" : "",
+        "type of law" : "outlaws same-sex relations",
+        "name of law" : "Penal Code of 1949, article 520",
+        "category of offense" : "unnatural/indecent acts",
         "legal provisions" : 
         {
-            "" : ""
+            "unnatural sexual intercourse" : "up to three years in prison"
         }
     },
 
-    "" : 
+    "Tanzania" : 
     {
-        "type of law" : "",
-        "name of law" : "",
-        "category of offense" : "",
+        "type of law" : "outlaws same-sex relations",
+        "name of law" : "Penal Code of 1945 (as amended by the Sexual Offences Special Provisions Act, 1998), section 138(a), 154",
+        "category of offense" : "unnatural/indecent acts",
         "legal provisions" : 
         {
-            "" : ""
+            "unnatural offenses, gross indecency" : "thirty years to life in prison"
         }
     },
 
-    "" : 
+    "Togo" : 
     {
-        "type of law" : "",
-        "name of law" : "",
-        "category of offense" : "",
+        "type of law" : "outlaws same-sex relations",
+        "name of law" : "Penal Code of 13 August 1980 (amended 2000), article 88.",
+        "category of offense" : "unnatural/indecent acts",
         "legal provisions" : 
         {
-            "" : ""
+            "indecent acts or acts against nature" : "one to 3 years in prison; fine between 100,000 and CFA 500,000 (USF $170 to $870)."
         }
     },
 
-    "" : 
+    "Tonga" : 
     {
-        "type of law" : "",
-        "name of law" : "",
-        "category of offense" : "",
+        "type of law" : "outlaws same-sex relations",
+        "name of law" : "Criminal Offences Act, 1988 Revised Edition, sections 136, 139, 142",
+        "category of offense" : "sodomy",
         "legal provisions" : 
         {
-            "" : ""
+            "sodomy" : "up to 10 years in prison; whipping."
         }
     },
 
-    "" : 
+    "Tonga (Gender)" : 
     {
-        "type of law" : "",
-        "name of law" : "",
+        "type of law" : "criminalizes forms of gender expression",
+        "name of law" : "Laws of Tonga Chapter 18, Criminal Offenses, art. 81(5)",
         "category of offense" : "",
         "legal provisions" : 
         {
-            "" : ""
+            "Male person impersonating a woman \"whilst soliciting for an immoral purpose\"" : "fine not exceeding $100 , imprisonment for a period not exceeding one year, or both"
         }
     },
 
-    "" : 
+    "Tunisia" : 
     {
-        "type of law" : "",
-        "name of law" : "",
-        "category of offense" : "",
+        "type of law" : "outlaws same-sex relations",
+        "name of law" : "Penal Code of 1913 (as modified), article 230",
+        "category of offense" : "sodomy; homosexual acts",
         "legal provisions" : 
         {
-            "" : ""
+            "sodomy; sex between women" : "three years in prison"
+        },
+        "notes" :
+        {
+            "While the French version of the penal code refers only to \"sodomy,\" the official Arabic penal code explicitly outlaws same-sex relations between women and between men." : ""
         }
     },
 
-    "" : 
+    "Turkmenistan" : 
     {
-        "type of law" : "",
-        "name of law" : "",
-        "category of offense" : "",
+        "type of law" : "outlaws same-sex relations",
+        "name of law" : "Criminal Code of Turkmenistan No. 222-I of June 12, 1997 (as amended up to November 9, 2013), article 135",
+        "category of offense" : "sodomy",
         "legal provisions" : 
         {
-            "" : ""
+            "sodomy; sexual acts between men" : "two years in prison, between five to ten years in prison if repeated."
         }
     },
 
-    "" : 
+    "Tuvalu" : 
     {
-        "type of law" : "",
-        "name of law" : "",
-        "category of offense" : "",
+        "type of law" : "outlaws same-sex relations",
+        "name of law" : "Penal Code, Revised Edition 2008, section 153-155.",
+        "category of offense" : "unnatural/indecent acts",
         "legal provisions" : 
         {
-            "" : ""
+            "unnatural offenses; buggery; indecent practices between males" : "up to fourteen years in prison"
         }
     },
 
-    "" : 
+    "Uganda" : 
     {
-        "type of law" : "",
-        "name of law" : "",
-        "category of offense" : "",
+        "type of law" : "outlaws same-sex relations",
+        "name of law" : "Penal Code Act of 1950 (Chapter 120), (as amended), section 145, 148",
+        "category of offense" : "unnatural/indecent acts",
         "legal provisions" : 
         {
-            "" : ""
+            "carnal knowledge against the order of nature; gross indecency" : "life in prison"
+        },
+        "notes" :
+        {
+            "Uganda's Constitutional Court declared the Anti-Homosexuality Act \"null and void\" on August 1, 2014. In the months after the law was enacted in February 2014, LGBT people in Uganda experienced a notable increase in arbitrary arrests, police extortion, loss of employment, evictions, and homelessness." : ""
         }
     },
 
-    "" : 
+    "United Arab Emirates (Gender)" : 
     {
-        "type of law" : "",
-        "name of law" : "",
+        "type of law" : "criminalizes forms of gender expression",
+        "name of law" : "Federal Law No. 7 of 2016, art. 359",
         "category of offense" : "",
         "legal provisions" : 
         {
-            "" : ""
+            "\"any male disguised in a female apparel and enters in this disguise a place reserved for women or where entry is forbidden, at that time, for other than women\"" : "up to one year in prison and a fine of up to 10,000 dirhams (USD $2,722)"
         }
     },
 
-    "" : 
+    "Uzbekistan" : 
     {
-        "type of law" : "",
-        "name of law" : "",
-        "category of offense" : "",
+        "type of law" : "outlaws same-sex relations",
+        "name of law" : "Criminal Code of the Republic of Uzbekistan, 1994, article 120",
+        "category of offense" : "homosexual acts",
         "legal provisions" : 
         {
-            "" : ""
+            "consensual intercourse between men" : "up to three years in prison"
         }
     },
 
-    "" : 
+    "Yemen" : 
     {
-        "type of law" : "",
-        "name of law" : "",
-        "category of offense" : "",
+        "type of law" : "outlaws same-sex relations",
+        "name of law" : "Penal Code 1994, articles 264, 268",
+        "category of offense" : "homosexual acts",
         "legal provisions" : 
         {
-            "" : ""
+            "penetration in the anus (men)" : "Homosexual acts between men: 100 lashes, 1 year in prison (unmarried men), death by stoning (married men)",
+            "sexual stimulation by rubbing (women)" : "homosexual act between women: 100 lashes, up to 3 years in prison."
         }
     },
 
-    "" : 
+    "Zambia" : 
     {
-        "type of law" : "",
-        "name of law" : "",
-        "category of offense" : "",
+        "type of law" : "outlaws same-sex relations",
+        "name of law" : "Penal Code Act (as amended by Act No. 15 of 2005), sections 155, 156",
+        "category of offense" : "unnatural/indecent acts",
         "legal provisions" : 
         {
-            "" : ""
+            "carnal knowledge against the order of nature, gross indecency" : "seven years to life in prison"
         }
     },
 
-    "" : 
+    "Zimbabwe" : 
     {
-        "type of law" : "",
-        "name of law" : "",
-        "category of offense" : "",
+        "type of law" : "outlaws same-sex relations",
+        "name of law" : "Criminal Law (Codification and Reform) Act, (Effective 2006), section 73",
+        "category of offense" : "sodomy",
         "legal provisions" : 
         {
-            "" : ""
+            "sodomy" : "up to one year in prison and/or fine"
         }
-    },
-
-    "" : 
-    {
-        "type of law" : "",
-        "name of law" : "",
-        "category of offense" : "",
-        "legal provisions" : 
-        {
-            "" : ""
-        }
-    },
-
-    "" : 
-    {
-        "type of law" : "",
-        "name of law" : "",
-        "category of offense" : "",
-        "legal provisions" : 
-        {
-            "" : ""
-        }
-    },
-
-    "" : 
-    {
-        "type of law" : "",
-        "name of law" : "",
-        "category of offense" : "",
-        "legal provisions" : 
-        {
-            "" : ""
-        }
-    },
-}
+    }
