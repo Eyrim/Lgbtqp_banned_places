@@ -1,10 +1,17 @@
 import tkinter as tk
 from tkinter import Frame, ttk, StringVar, Radiobutton, Entry
-from json import dumps
+from json import loads
+import json as json
 
 class Main:
     def __init__(self):
-        pass
+        with open('hate.json') as hate:
+            hate = hate.read()
+            self.hate = json.loads(hate)
+
+    def search(self):
+        self.search_results = tk.Label(self.root_frame, text = self.hate[self.search_term.get()])
+        self.search_results.pack()
 
     def submit(self):
         print("-" * 100)
@@ -228,6 +235,23 @@ class Main:
         self.gender_expression_combobox.current(0)
 
         self.gender_expression_combobox.bind("<<ComboboxSelected>>", self.data_gather)
+
+        # --------------------------------------------
+
+        # ---------------- SEARCH BAR ----------------
+
+        self.search_button_top_label = tk.Label(self.root_frame, text = "Search for a country, crime or sentence")
+        self.search_button_top_label.pack()
+        self.search_term = StringVar()
+        self.search_entry = Entry(self.root_frame, textvariable = self.search_term)
+        self.search_entry.pack()
+
+            # ---------------- SEARCH BUTTON --------------
+
+        self.search_button = tk.Button(self.root_frame, text = "Search", command = self.search)
+        self.search_button.pack()
+            
+            # ---------------------------------------------
 
         # --------------------------------------------
 
