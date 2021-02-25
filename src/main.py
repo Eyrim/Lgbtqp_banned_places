@@ -5,7 +5,7 @@ import json as json
 
 class Main:
     def __init__(self):
-        with open('hate.json') as hate:
+        with open('C:\Projects\lgbtq_final\lgbtqp_banned_places\src\hate.json') as hate:
             hate = hate.read()
             self.hate = json.loads(hate)
 
@@ -43,7 +43,7 @@ class Main:
             "Homoromantic (female)",
             "Homoromantic (male)",
             "Biromantic",
-            "Asexual",
+            "Aromantic",
             "Other",
             "prefer not to disclose".title()
         ]
@@ -62,7 +62,7 @@ class Main:
     def change_gender_expression_post(self):
         self.gender_expression_combobox["values"] = [
             "My AGAB",
-            "My true gender".title(),
+            "Something other than my AGAB".title(),
             "Both"
         ]
 
